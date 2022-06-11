@@ -8,7 +8,7 @@ cover:
   caption: NASA
 ---
 
-Welcome to the _Notes_ template!
+Test Welcome to the _Notes_ template!
 
 The **Notes** starter template empowers you to easily create  **personal notes** and **knowledge bases** in a future-proof way.
 
